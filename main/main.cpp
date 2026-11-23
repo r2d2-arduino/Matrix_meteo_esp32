@@ -339,7 +339,7 @@ extern "C" void app_main(void) {
     cfg.color_depth    = 4;
     cfg.base_oe_words  = 24;
     cfg.double_buffer  = true;
-    cfg.brightness     = 120;
+    cfg.brightness     = 60;
     cfg.latch_blanking = 2;
     cfg.clk_div        = 4;
     cfg.pixel_shift    = 0;
